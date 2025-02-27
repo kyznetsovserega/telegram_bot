@@ -1,4 +1,4 @@
-# Telegram Bot
+# Telegram Bot (@m1_JAVARUSH_AIbot)
 
 Этот Telegram-бот реализован с использованием библиотеки `aiogram 3.x` и предназначен для различных AI-функций,
 включая работу с ChatGPT и Gemini, квизы и диалоги с известными личностями.
