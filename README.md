@@ -1,6 +1,9 @@
 # Telegram Bot (@m1_JAVARUSH_AIbot)
+<<<<<<< HEAD
 
 https://t.me/m1_JAVARUSH_AIbot
+=======
+>>>>>>> f56318849ede84f6e2d82056752c37ca56481c57
 
 Этот Telegram-бот реализован с использованием библиотеки `aiogram 3.x` и предназначен для различных AI-функций,
 включая работу с ChatGPT и Gemini, квизы и диалоги с известными личностями.
